@@ -6,37 +6,6 @@
 
 The Car Price Prediction System is a Machine Learning project developed using Linear Regression Algorithm.  
 
-This project predicts the price of a car based on various features such as:
-
-- Brand
-- Year
-- Engine Size
-- Fuel Type
-- Transmission
-- Mileage
-- Condition
-- Model
-
-The project is developed using:
-
-- Python
-- Machine Learning
-- Flask
-- HTML
-- CSS
-- Scikit-Learn
-
----
-
-# 👩‍💻 Developed By
-
-## Swarna
-
-Machine Learning Enthusiast  
-Aspiring Data Analyst 
-
----
-
 # 🎯 Project Objective
 
 The main objective of this project is to build a Machine Learning model that can accurately predict car prices based on user input.
