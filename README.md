@@ -11,7 +11,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Deployed](https://img.shields.io/badge/Deployed-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-### 🚀 [Live Demo](https://car-price-prediction-ti9b.onrender.com) | 📂 [View Code](https://github.com/karthik-vana/car-price-prediction)
+### 🚀 [Live Demo](https://c) | 📂 [Viewcode//https://github.com/Swarna6656/Car_price_prediction.git)
 
 **Predict your car's resale value instantly with 97% accuracy!**
 
@@ -72,25 +72,10 @@ I trained and evaluated **3 different regression models** to find the best perfo
 
 </div>
 
-### 📈 Visual Comparison
-```
-Model Accuracy (R² Score)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Extra Trees     ████████████████████  97.3% 🏆
-Random Forest   ███████████████████░  95.9%
-Linear Reg      █████████████████░░░  84.9%
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
 
 ## 🔍 Data Analysis & Insights
 
-### Dataset Overview
-
-- **Total Records:** 301 cars
-- **Features:** 9 (including target)
-- **Target Variable:** Selling Price (in Lakhs)
+khs)
 
 ### 📊 Key Features Used
 
@@ -133,7 +118,7 @@ Linear Reg      █████████████████░░░  84
 
 ### 🌐 Try It Now!
 
-**👉 [https://car-price-prediction-ti9b.onrender.com](https://car-price-prediction-ti9b.onrender.com)**
+**👉 [https://car-price-prediction-ti9b.onrender.com](https://car-price-prediction-ti9b.onren)**
 
 ## 📂 Project Structure
 ```
@@ -171,10 +156,7 @@ car-price-prediction/
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Visualization
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Web & Deployment
 
