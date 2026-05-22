@@ -24,22 +24,38 @@ Matplotlib
 Scikit-learn
 Logging Module
 📂 Project Structure
+
 ├── main.py
+
 ├── car_price_prediction.csv
+
 ├── main_logcode.py
+
 ├── train_logcode.py
+
 ├── testing_logcode.py
+
 ├── model_saving.py
+
 ├── logs/
+
 └── README.md
+
 ⚙️ Features
 Automatic preprocessing of categorical columns
+
 Logging system for debugging and tracking
-Modular code structure
-Train/Test split implementation
+
+Modular code structure 
+
+Train/Test split implementation 
+
 Error handling using try-except
+
 Model saving for future predictions
+
 🚀 Project Workflow
+
 1️⃣ Load Dataset
 self.df = pd.read_csv(self.data)
 
