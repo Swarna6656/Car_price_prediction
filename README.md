@@ -8,21 +8,34 @@ The goal of this project is to build a Machine Learning model that predicts the 
 The project workflow includes:
 
 ✔ Data Loading
+
 ✔ Data Cleaning
-✔ Feature Encoding
+
+✔ Feature Encoding 
+
 ✔ Train-Test Splitting
+
 ✔ Model Training
-✔ Model Evaluation
+
+✔ Model Evaluation  
+
 ✔ Model Saving
+
 ✔ Logging and Exception Handling
 
 🛠️ Technologies Used
-Python
+Python 
+
 NumPy
-Pandas
+
+Pandas 
+
 Matplotlib
+
 Scikit-learn
+
 Logging Module
+
 📂 Project Structure
 
 ├── main.py
@@ -90,12 +103,19 @@ obj.saving_model()
 ▶️ How to Run the Project
 Clone the Repository
 git clone https:https://https://github.com/Swarna6656/Car_price_prediction
-Navigate to Project Directory
+
+Navigate to Project Directory 
+
 cd car-price-prediction
-Install Required Libraries
-pip install -r requirements.txt
-Run the Project
-python main.py
+
+Install Required Libraries  
+
+pip install -r requirements.txt 
+
+Run the Project 
+
+python main.py 
+
 📊 Machine Learning Pipeline
 Dataset
    ↓
@@ -118,7 +138,7 @@ Logging
 Exception Handling
 Model Serialization
 🌐 Render Deployment Link
-deployed Render link: https://car-price-prediction-1-k5xb.onrender.com
+deployed Render link:https://car-price-prediction-f96e.onrender.com
 
 https://your-render-link.onrender.com
 Example:
@@ -140,4 +160,7 @@ Commit your changes
 Push to the branch
 Open a Pull Request
 👨‍💻 Author
-Developed by Muthireddy Narendra
+Developed by swarnalatha
+if you like the project please give me a star
+
+
