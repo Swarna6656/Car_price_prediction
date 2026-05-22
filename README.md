@@ -140,10 +140,7 @@ Model Serialization
 🌐 Render Deployment Link
 deployed Render link:https://car-price-prediction-f96e.onrender.com
 
-https://your-render-link.onrender.com
-Example:
 
-https://car-price-prediction.onrender.com
 📈 Future Enhancements
 Add Flask/Django Frontend
 Hyperparameter Tuning
